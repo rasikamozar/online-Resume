@@ -1,0 +1,29 @@
+body{
+    color: black;
+     overflow: auto;
+     font-family:  'Playfair Display', 'Poppins', sans-serif, serif;
+     
+}
+pre{
+    font-family:  'Playfair Display', 'Poppins', sans-serif, serif;
+}
+.main-content{
+    margin-left: 15%;
+    margin-right: 15%;
+    font-size:20px
+}
+.name{
+    margin-left:100px;
+    font-weight: bolder;
+    font-size:28px;
+}
+.heading{
+    margin-left:300px;
+    color:rgb(8, 134, 184);
+  
+}
+h3{
+    color:rgb(8, 134, 184);
+}
+
+
